@@ -3,7 +3,7 @@ import save_system
 import math
 from enum import Enum
 
-# Misc ideas: different backgrounds? easter eggs? Place Ideas(gremlin gulch, crack canyon, bandit bog), 
+# Misc ideas: different backgrounds? easter eggs? Sounds? Custom domain? Place Ideas(gremlin gulch, crack canyon, bandit bog)
 
 # professions: Craftsman(Armorer, Gun Smith), Gunslinger(Sheriff, Outlaw), Moneymaker(Investor, Entrepreneur)
 
