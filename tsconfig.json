@@ -1,7 +1,10 @@
 {
-    "compilerOptions": {
-      "target": "ES5",
-      "module": "CommonJS",
-      "sourceMap": true
-    }
-}  
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [ "ES2015", "DOM" ],
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
