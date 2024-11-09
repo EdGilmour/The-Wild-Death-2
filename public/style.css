@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
 
 * {
     margin: 0;
@@ -37,7 +37,7 @@ main > h1 {
 .card {
     width: 12rem auto;
     background: #444;
-    color: #e4c439;
+    color: #c19f04;
     padding: 1rem;
     border-radius: 10px;
     border-top: 0.5px solid #cebf7b;
@@ -81,4 +81,4 @@ main > h1 {
 .card--details {
     font-size: 1.3rem;
     color: #dbca80;
-}
+} */
